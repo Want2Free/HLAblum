@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "HLAblum"
-  s.version      = "0.0.1"
+  s.version      = "1.0.2"
   s.summary      = "A Custom album selection, picture browsing control with swift language."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 Just want to try.
                    DESC
 
-  s.homepage     = "https://github.com/HLAblum"
+  s.homepage     = "https://github.com/Want2Free/HLAblum"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
